@@ -1,3 +1,28 @@
+
+# The Gaming Room | Software Design & Operating Platforms
+
+## Project Overview
+
+This project focuses on designing a scalable, cross-platform solution for The Gaming Room, a client seeking to expand its existing Android game, *Draw It or Lose It*, into a web-based application.
+
+The software design process involved analyzing client requirements, comparing operating platforms, and recommending an architecture that supports performance, security, and future growth.
+
+## Skills Demonstrated
+
+- Software architecture and system design
+- Windows, Linux, and macOS platform analysis
+- Object-oriented design and the Singleton pattern
+- Scalability and distributed systems
+- Security and memory management considerations
+- Client requirements analysis
+- Technical documentation
+
+## Project Deliverable
+
+**Software Design Document:** An evaluation of operating environments, application architecture, and technical recommendations for The Gaming Room.
+
+---
+  
 # cs230-Operating-Platforms
 Software Design Document for The Gaming Room - CS-230 Final Project
 
